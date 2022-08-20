@@ -185,7 +185,6 @@ input, select, textarea {
 	}
 
 
-
 	h1, h2, h3, h4, h5, h6 {
 		font-family: "Source Sans Pro", Helvetica, sans-serif;
 		font-weight: 900;
@@ -292,7 +291,7 @@ input, select, textarea {
 	.align-right {
 		text-align: right;
 	}
-
+    
 	input, select, textarea {
 		color: #212931;
 	}
