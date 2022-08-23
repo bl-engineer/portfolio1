@@ -33,6 +33,13 @@ body {
 	line-height: 1;
 }
 
+#contact-icons li {
+	background-color: #18bfef;
+
+}
+#contact-me{
+	padding-right: 20px;
+}
 ol, ul {
 	list-style: none;
 }
@@ -45,7 +52,9 @@ blockquote, q {
 		content: '';
 		content: none;
 	}
-
+#sm-color{
+	color:#18bfef;
+}
 table {
 	border-collapse: collapse;
 	border-spacing: 0;
@@ -146,6 +155,7 @@ input, select, textarea {
 	body {
 		color: #212931;
 	}
+	
 
 	body, input, select, textarea {
 		font-family: "Merriweather", Georgia, serif;
@@ -3087,7 +3097,7 @@ input, select, textarea {
 		table tbody tr:nth-child(2n + 1) {
 			background-color: rgba(220, 220, 220, 0.25);
 		}
-
+	
 	table th {
 		color: #212931;
 	}
@@ -3608,7 +3618,7 @@ input, select, textarea {
 
 		}
 
-/* Nav */
+/*  */
 
 	#nav {
 		color: #ffffff;
@@ -3632,14 +3642,14 @@ input, select, textarea {
 		z-index: 2;
 	}
 
-		#nav ul.divided li {
+		# ul.divided li {
 			border-top-color: #ffffff;
 		}
 
 		#nav ul.icons li a.icon:hover:before {
 			color: #18bfef;
 		}
-
+        
 		#nav ul.icons.alt li .icon:before {
 			box-shadow: inset 0 0 0 2px #ffffff;
 		}
@@ -3663,7 +3673,7 @@ input, select, textarea {
 			}
 
 		#nav strong, #nav b {
-			color: #ffffff;
+			color:#18bfef;
 		}
 
 		#nav h1, #nav h2, #nav h3, #nav h4, #nav h5, #nav h6 {
