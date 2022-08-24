@@ -3673,7 +3673,7 @@ input, select, textarea {
 			}
 
 		#nav strong, #nav b {
-			color:#18bfef;
+			color:aquamarine;
 		}
 
 		#nav h1, #nav h2, #nav h3, #nav h4, #nav h5, #nav h6 {
@@ -3781,7 +3781,7 @@ input, select, textarea {
 
 		#main > * {
 			padding: 4rem 4rem 2rem 4rem ;
-			border-top: solid 2px #eeeeee;
+			border-top: solid 2px red;
 			margin: 0;
 		}
 
@@ -4426,7 +4426,7 @@ input, select, textarea {
 
 			#copyright a:hover {
 				border-bottom-color: transparent;
-				color: #18bfef !important;
+				color: aquamarine !important;
 			}
 
 		#copyright strong, #copyright b {
@@ -4702,4 +4702,9 @@ input, select, textarea {
 		}
 
 	}
-	
+	.benefit-lead, .benefit-brand {
+		margin-bottom: 32px;
+		border: 5px solid #18bfef;
+		padding: 20px;
+		
+	}
