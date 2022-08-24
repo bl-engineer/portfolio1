@@ -107,6 +107,6 @@ You are required to submit BOTH of the following for review:
 
 - - -
 © Done by: Bocar Ly
-Assigment: Week 1 Homework 
+Assigment: Week 2 Homework 
 
 [Github_URL](https://github.com/bl-engineer/portfolio1)
