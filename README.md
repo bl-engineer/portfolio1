@@ -105,6 +105,9 @@ You are required to submit BOTH of the following for review:
 - - -
 © 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
 
+## Reshaping the page
+I have added a photo of myself on the top of the page as recommended by our valuable graders.
+
 - - -
 © Done by: Bocar Ly
 Assigment: Week 2 Homework 
